@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6shell:
+
+#### p6shell/init.zsh:
 
 - p6df::modules::p6shell::deps()
 - p6df::modules::p6shell::init()
