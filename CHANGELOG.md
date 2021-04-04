@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/p6m7g8/p6shell/compare/v1.1.0...v1.1.1) (2021-04-04)
+
+
+* **link:** remove rendundant symlinks; echo for now ([#14](https://github.com/p6m7g8/p6shell/issues/14)) ([67a2b5b](https://github.com/p6m7g8/p6shell/commit/67a2b5bbe0b2a37a42d45a87cf842ba2af8cdc8b))
+* **README:** updates generator ([#12](https://github.com/p6m7g8/p6shell/issues/12)) ([1c17b8b](https://github.com/p6m7g8/p6shell/commit/1c17b8b01c8b10cdce46a26aeecd2b480d29dd8e))
+* Coc -> .github ([c26cccf](https://github.com/p6m7g8/p6shell/commit/c26cccfa4479e3b56d08e0b3f06b99ca1ec4690f))
+* the great vscode indent of 2021 ([#13](https://github.com/p6m7g8/p6shell/issues/13)) ([3cf4d1c](https://github.com/p6m7g8/p6shell/commit/3cf4d1c0449134c27913472f750724555f9c3c3e))
+
 ## 1.1.0 (2020-12-06)
 
 
